@@ -1,2 +1,2 @@
 # SecureFlow-TDI
-A secure data pipeline in Python that automates PII redaction and implements AES-based symmetric encryption to protect sensitive financial data-in-transit.
+Eine sichere Datenpipeline in Python, die die automatische Schwärzung von personenbezogenen Informationen durchführt und eine auf dem Advanced Encryption Standard basierende symmetrische Verschlüsselung implementiert, um sensible Finanzdaten während der Übertragung zu schützen
